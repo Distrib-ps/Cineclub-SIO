@@ -125,7 +125,7 @@ body {
   border-radius: 50px;
   margin-top: 25%;
 }
-.bouton a:hover {
+a:hover {
   text-decoration: underline;
 }
 
@@ -164,6 +164,12 @@ body {
 }
 .gras {
   font-weight: bold;
+}
+.titre {
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 3rem;
+  color: #f00000;
 }
 .film_name {
   font-weight: bold;
